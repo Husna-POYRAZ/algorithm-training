@@ -39,6 +39,7 @@ public class Main {
                     list.add(variable);
             }
         }
+        
         return list;
     }
 }
